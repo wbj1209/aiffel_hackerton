@@ -1,7 +1,7 @@
 # [AIFFEL] 제 1차 해커톤: 캐글 축제
 
-팀원: 이재준(팀장), 우범진, 유상민, 정지윤
-링크: [레스토랑 방문자 예측](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
+**팀원:** 이재준(팀장), 우범진, 유상민, 정지윤  
+**링크:** [레스토랑 방문자 예측](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
 
 ## 타임라인
 
@@ -25,4 +25,4 @@
 
 ## 주의사항
 
-- 모든 첨부파일을 정확히 제출했는지 확인
+- 모든 제출파일을 빠짐없이 첨부하였는지 확인
