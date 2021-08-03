@@ -1,12 +1,14 @@
 # [AIFFEL] 제 1차 해커톤: 캐글 축제
 
 **팀원:** 이재준(팀장), 우범진, 유상민, 정지윤  
-**링크:** [레스토랑 방문자 예측](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
+**링크:** [레스토랑 방문자 수 예측](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
+
+<br>
 
 ## 타임라인
 
-- 대회 기간: 2021.08.04(수) ~ 2021.08.06(금)
-- 팀별 발표 및 시상: 2021.08.06(금)
+- **대회 기간:** 2021.08.04(수) ~ 2021.08.06(금)
+- **팀별 발표 및 시상:** 2021.08.06(금)
 
 ## 참가방식
 
