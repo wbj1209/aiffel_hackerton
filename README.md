@@ -14,7 +14,7 @@
 
 - 팀별로 Kaggle Competition 참여
 - 대회 기간 이내 획득한 Kaggle Public Score 중 최고점을 jupyter notebook 파일과 함께 제출
-- 최종 제출파일은 총 3가지로 각각 Leaderboard 캡쳐, My Submission 캡쳐, jupyter notemook
+- 최종 제출파일은 총 3가지로 각각 Leaderboard 캡쳐, My Submission 캡쳐, jupyter notebook
 - 발표는 10분 내외로 간단히 진행
 
 ## 평가기준
